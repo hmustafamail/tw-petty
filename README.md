@@ -7,3 +7,5 @@ A script that automatically unfollows everyone who does not follow you back on T
 
 ## Author's notes
 I initially intended to write this as an example for [Python-Twitter](https://github.com/bear/python-twitter), since they need examples, but I had trouble understanding that project's documentation--upon returning to their documentation, I realize that nearly all the documentation needed for usage is under the Modules section. Their [tutorial for getting API keys from Twitter](https://python-twitter.readthedocs.io/en/latest/getting_started.html) is excellent, though.
+
+Copyright for all code in this repository: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
